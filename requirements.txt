@@ -1,5 +1,6 @@
-tensorFlow 
-keras 
-NLTK 
-scikit-learn 
-pickle 
+streamlit
+tensorflow
+keras
+NLTK
+scikit-learn
+pickle
