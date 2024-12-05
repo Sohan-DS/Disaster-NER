@@ -1,0 +1,5 @@
+tensorFlow 
+keras 
+NLTK 
+scikit-learn 
+pickle 
